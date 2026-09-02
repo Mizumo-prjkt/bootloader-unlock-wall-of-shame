@@ -26,7 +26,7 @@ Sony supports [Custom AVB](../../README.md#custom-avb-keys) Since 2020.
 
 You also can't unlock Japan carrier variants, for some reason - Japanese factory unlocked is unaffected.
 
-All Sony devices using the Snapdragon 835 and Snapdragon 845 can be unlocked via the [xperable exploit][xperable].
+Sony Xperia XZ1 (`poplar`, `poplar_dsds`, `poplar_kddi`), XZ1 Compact (lilac) and XZ2 (Tama) and XZ3 (Katsuki), including Japan Units like `au`, `Softbank` and `Docomo` using the Snapdragon 835 and Snapdragon 845 can be unlocked via the [xperable exploit][xperable].
 
 ***
 Info about Japan devices provided by [madeline-yana](https://github.com/madeline-yana) and edited by [eepymeowers](https://github.com/eepymeowers)
